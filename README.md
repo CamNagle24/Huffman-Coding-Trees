@@ -4,7 +4,9 @@ Tree-based data structure used for efficient data encoding and decoding with bin
 <img src="assets/HuffmanCodeTree.png" width="200">
 
 ### What I Learned
-- 
+- Implement a tree-based data structure
+- Concepts of fixed length encoding/decoding
+- Using helper fucnctions to make this possible
 
 Here is what the encoded and decoded versions look like!
 
