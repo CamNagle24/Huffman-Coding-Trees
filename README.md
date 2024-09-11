@@ -1,7 +1,7 @@
 # Huffman-Coding-Trees
 Tree-based data structure used for efficient data encoding and decoding with binary sequences.
 
-<img src="assets/HuffmanCodeTree.png" width="300">
+<img src="assets/HuffmanCodeTree.png" width="200">
 
 ### What I Learned
 - 
