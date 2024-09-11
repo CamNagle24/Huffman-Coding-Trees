@@ -3,6 +3,9 @@ Tree-based data structure used for efficient data encoding and decoding with bin
 
 <img src="assets/HuffmanCodeTree.png" width="300">
 
+### What I Learned
+- 
+
 Here is what the encoded and decoded versions look like!
 
 <img src="assets/HuffmanEncode.png" width="600">
